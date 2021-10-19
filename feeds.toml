@@ -1,0 +1,19 @@
+[naver_premiumcontents_tmifm]
+title = "네이버 프리미엄콘텐츠 ─ TMI.FM 팬덤랩스"
+url = "https://contents.premium.naver.com/tmifm/labs/contents"
+entrySelector = "ul.content_list._CONTENT_LIST li.content_item.as_thumb"
+titleSelector = "strong.content_title"
+linkSelector = "a.content_text_link"
+contentSelector = "a.content_category"
+imageSelector = "a.content_thumb img"
+waitUntil = "networkidle"
+
+[maily_tmifm]
+title = "메일리 ─ 차우진의 TMI.FM"
+url = "https://maily.so/draft.briefing"
+entrySelector = "ul[class='px-3 py-6 space-y-2 lg:space-y-4'] div[class='w-full h-auto flex flex-col flex bg-white hover:bg-gray-50 border border-gray-200']"
+titleSelector = "div[class='text-gray-900 font-bold text-base lg:text-xl whitespace-normal truncate-2-lines']"
+linkSelector = "a"
+contentSelector = "p[class='text-gray-700 text-sm lg:text-base truncate-2-lines']"
+imageSelector = "div[class='flex-shrink-0 w-full h-20 lg:h-32 flex-none bg-cover text-center overflow-hidden']"
+waitUntil = "networkidle"
