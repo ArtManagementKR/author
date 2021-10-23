@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 17:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 05:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MzBfMjMx/MDAxNjI3NjI5Nzk3MjE0.GQsq0YBugfJcODLi-4uzMlwACss-uyXVgUidLPV7cMQg.9mJir-a4aU7o0NX6RqFNahAaDNZI0qdcZqbD37GAOwgg.JPEG/brad-neathery-XrSzacdYbtQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[☕한류 혹은 아시안 문화의 영향력은 왜 커지고 있을까? (메일리 ─ 차우진의 TMI.FM)]]></title>
+            <link>https://maily.so/draft.briefing/posts/c7428c3a</link>
+            <guid>https://maily.so/draft.briefing/posts/c7428c3a</guid>
+            <pubDate>Sat, 23 Oct 2021 05:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 관점에서 볼 필요가 있습니다]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailyc08aec2ca881c3981f64e5a1e47dd42e1634881412" length="0" type="image//mailyc08aec2ca881c3981f64e5a1e47dd42e1634881412"/>
+        </item>
+        <item>
             <title><![CDATA[📻인터뷰 | NFT 크리에이터 토비(TOVI) (메일리 ─ 차우진의 TMI.FM)]]></title>
             <link>https://maily.so/draft.briefing/posts/a6f5ad</link>
             <guid>https://maily.so/draft.briefing/posts/a6f5ad</guid>
@@ -134,14 +142,6 @@
             <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
             <content:encoded><![CDATA[※ 월간/연간 멤버십 분들께]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailye2d07ddde894994582784011da0c58661633181058" length="0" type="image//mailye2d07ddde894994582784011da0c58661633181058"/>
-        </item>
-        <item>
-            <title><![CDATA[📻멤버십 살롱 오픈 (메일리 ─ 차우진의 TMI.FM)]]></title>
-            <link>https://maily.so/draft.briefing/posts/421ea8</link>
-            <guid>https://maily.so/draft.briefing/posts/421ea8</guid>
-            <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[멤버십 전용 공간이 생겼습니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010" length="0" type="image//mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010"/>
         </item>
     </channel>
 </rss>
