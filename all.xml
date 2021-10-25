@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 17:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MzBfMjMx/MDAxNjI3NjI5Nzk3MjE0.GQsq0YBugfJcODLi-4uzMlwACss-uyXVgUidLPV7cMQg.9mJir-a4aU7o0NX6RqFNahAaDNZI0qdcZqbD37GAOwgg.JPEG/brad-neathery-XrSzacdYbtQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[📻구독자님, <2021 케이팝 레이더 컨퍼런스>에 함께 가요 (메일리 ─ 차우진의 TMI.FM)]]></title>
+            <link>https://maily.so/draft.briefing/posts/665df30d</link>
+            <guid>https://maily.so/draft.briefing/posts/665df30d</guid>
+            <pubDate>Mon, 25 Oct 2021 05:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[사.전.예.약.오.픈.]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily91502c1867b1db5d53b90a54575368731634982731" length="0" type="image//maily91502c1867b1db5d53b90a54575368731634982731"/>
+        </item>
+        <item>
             <title><![CDATA[☕한류 혹은 아시안 문화의 영향력은 왜 커지고 있을까? (메일리 ─ 차우진의 TMI.FM)]]></title>
             <link>https://maily.so/draft.briefing/posts/c7428c3a</link>
             <guid>https://maily.so/draft.briefing/posts/c7428c3a</guid>
@@ -134,14 +142,6 @@
             <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
             <content:encoded><![CDATA[구독자님이 뽑아주세요!]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailye54aa21d3761ddd94798e52de648dc901633594385" length="0" type="image//mailye54aa21d3761ddd94798e52de648dc901633594385"/>
-        </item>
-        <item>
-            <title><![CDATA[🎁멤버십 커뮤니티 TMI.salon에 초대합니다 (메일리 ─ 차우진의 TMI.FM)]]></title>
-            <link>https://maily.so/draft.briefing/posts/cbc3ef</link>
-            <guid>https://maily.so/draft.briefing/posts/cbc3ef</guid>
-            <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[※ 월간/연간 멤버십 분들께]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailye2d07ddde894994582784011da0c58661633181058" length="0" type="image//mailye2d07ddde894994582784011da0c58661633181058"/>
         </item>
     </channel>
 </rss>
