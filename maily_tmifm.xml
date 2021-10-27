@@ -4,9 +4,17 @@
         <title>메일리 ─ 차우진의 TMI.FM</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 17:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 05:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎁SNS시대의 (팬) 커뮤니티]]></title>
+            <link>https://maily.so/draft.briefing/posts/f557c9</link>
+            <guid>https://maily.so/draft.briefing/posts/f557c9</guid>
+            <pubDate>Wed, 27 Oct 2021 05:32:16 GMT</pubDate>
+            <content:encoded><![CDATA[함께 성장하는 공동체와 도전들]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailya918be84b530f293f99777449afa8ead1635285457" length="0" type="image//mailya918be84b530f293f99777449afa8ead1635285457"/>
+        </item>
         <item>
             <title><![CDATA[📻구독자님, <2021 케이팝 레이더 컨퍼런스>에 함께 가요]]></title>
             <link>https://maily.so/draft.briefing/posts/665df30d</link>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
             <content:encoded><![CDATA[※ 2일 뒤 멤버십 콘텐츠로 전환됩니다.]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily2750a6f1db85ab71e4217e05d87493551633752560" length="0" type="image//maily2750a6f1db85ab71e4217e05d87493551633752560"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 가장 인상적인 K-POP 음반 디자인은?]]></title>
-            <link>https://maily.so/draft.briefing/posts/fc4736</link>
-            <guid>https://maily.so/draft.briefing/posts/fc4736</guid>
-            <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[구독자님이 뽑아주세요!]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailye54aa21d3761ddd94798e52de648dc901633594385" length="0" type="image//mailye54aa21d3761ddd94798e52de648dc901633594385"/>
         </item>
     </channel>
 </rss>
