@@ -4,9 +4,17 @@
         <title>메일리 ─ 차우진의 TMI.FM</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 05:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕스포티파이 vs 애플뮤직]]></title>
+            <link>https://maily.so/draft.briefing/posts/ac067cde</link>
+            <guid>https://maily.so/draft.briefing/posts/ac067cde</guid>
+            <pubDate>Sat, 30 Oct 2021 05:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[스트리밍의 양대 산맥에 대한 최신 소식]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily3246d5c91cf8c623fedda33423129dd81635563274" length="0" type="image//maily3246d5c91cf8c623fedda33423129dd81635563274"/>
+        </item>
         <item>
             <title><![CDATA[🎁SNS시대의 (팬) 커뮤니티]]></title>
             <link>https://maily.so/draft.briefing/posts/f557c9</link>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
             <content:encoded><![CDATA[3개의 가설이 있습니다]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyb4b2beb60981009e9a4788319c96d25b1633988811" length="0" type="image//mailyb4b2beb60981009e9a4788319c96d25b1633988811"/>
-        </item>
-        <item>
-            <title><![CDATA[☕크리에이터 경제와 NFT에 대한 소식들]]></title>
-            <link>https://maily.so/draft.briefing/posts/0adea3</link>
-            <guid>https://maily.so/draft.briefing/posts/0adea3</guid>
-            <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[※ 2일 뒤 멤버십 콘텐츠로 전환됩니다.]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily2750a6f1db85ab71e4217e05d87493551633752560" length="0" type="image//maily2750a6f1db85ab71e4217e05d87493551633752560"/>
         </item>
     </channel>
 </rss>
