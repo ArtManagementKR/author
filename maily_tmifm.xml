@@ -4,9 +4,17 @@
         <title>메일리 ─ 차우진의 TMI.FM</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 05:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 17:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TMI.토크쇼 | '위드 코로나'와 #우무지]]></title>
+            <link>https://maily.so/draft.briefing/posts/752f3e0f</link>
+            <guid>https://maily.so/draft.briefing/posts/752f3e0f</guid>
+            <pubDate>Fri, 05 Nov 2021 17:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[라이브 음악 씬의 챌린지 혹은 문제의 재정의]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily78990fe0e3ffe26a460b3f69eb71495c1636106417" length="0" type="image//maily78990fe0e3ffe26a460b3f69eb71495c1636106417"/>
+        </item>
         <item>
             <title><![CDATA[💬TMI.FM 토크쇼 신청 | 음악 NFT의 가능성]]></title>
             <link>https://maily.so/draft.briefing/posts/babea0c5</link>
@@ -48,20 +56,12 @@
             <enclosure url="https://cdn.maily.so/maily82c2d5f54293f264d519abb2d927cc551634969292" length="0" type="image//maily82c2d5f54293f264d519abb2d927cc551634969292"/>
         </item>
         <item>
-            <title><![CDATA[📻인터뷰 | NFT 크리에이터 토비(TOVI)]]></title>
+            <title><![CDATA[💬TMI.토크쇼 | NFT 크리에이터 토비(TOVI)]]></title>
             <link>https://maily.so/draft.briefing/posts/a6f5ad</link>
             <guid>https://maily.so/draft.briefing/posts/a6f5ad</guid>
             <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
             <content:encoded><![CDATA[NFT는 왜 크리에이터에게 중요한 생태계일까?]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyddf6ed8c3b872f2a522d4053716127921634552194" length="0" type="image//mailyddf6ed8c3b872f2a522d4053716127921634552194"/>
-        </item>
-        <item>
-            <title><![CDATA[☕아델과 음악 산업]]></title>
-            <link>https://maily.so/draft.briefing/posts/1441206d</link>
-            <guid>https://maily.so/draft.briefing/posts/1441206d</guid>
-            <pubDate>Tue, 19 Oct 2021 16:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[아델의 신곡 "Easy On Me"와 여러 반응들]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily6943138ce7deb929b64eebd8894d6ab61634436519" length="0" type="image//maily6943138ce7deb929b64eebd8894d6ab61634436519"/>
         </item>
     </channel>
 </rss>
