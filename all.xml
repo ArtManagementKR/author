@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 05:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 17:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MzBfMjMx/MDAxNjI3NjI5Nzk3MjE0.GQsq0YBugfJcODLi-4uzMlwACss-uyXVgUidLPV7cMQg.9mJir-a4aU7o0NX6RqFNahAaDNZI0qdcZqbD37GAOwgg.JPEG/brad-neathery-XrSzacdYbtQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎧TMI.mp3 | 갑자기 분위기 폴란드 팝?! (메일리 ─ 차우진의 TMI.FM)]]></title>
+            <link>https://maily.so/draft.briefing/posts/302f6bd4</link>
+            <guid>https://maily.so/draft.briefing/posts/302f6bd4</guid>
+            <pubDate>Mon, 15 Nov 2021 17:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[말많고고독한디제이의 플레이리스트]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily46fdf70ed1c193c6a3a4fb398f216f161636954319" length="0" type="image//maily46fdf70ed1c193c6a3a4fb398f216f161636954319"/>
+        </item>
+        <item>
             <title><![CDATA[☕유튜브의 광고 수익은 한마디로 미쳤다 (메일리 ─ 차우진의 TMI.FM)]]></title>
             <link>https://maily.so/draft.briefing/posts/9d94a113</link>
             <guid>https://maily.so/draft.briefing/posts/9d94a113</guid>
@@ -134,14 +142,6 @@
             <pubDate>Mon, 25 Oct 2021 05:32:17 GMT</pubDate>
             <content:encoded><![CDATA[사.전.예.약.오.픈.]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily91502c1867b1db5d53b90a54575368731634982731" length="0" type="image//maily91502c1867b1db5d53b90a54575368731634982731"/>
-        </item>
-        <item>
-            <title><![CDATA[☕한류 혹은 아시안 문화의 영향력은 왜 커지고 있을까? (메일리 ─ 차우진의 TMI.FM)]]></title>
-            <link>https://maily.so/draft.briefing/posts/c7428c3a</link>
-            <guid>https://maily.so/draft.briefing/posts/c7428c3a</guid>
-            <pubDate>Sat, 23 Oct 2021 05:31:41 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 관점에서 볼 필요가 있습니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily82c2d5f54293f264d519abb2d927cc551634969292" length="0" type="image//maily82c2d5f54293f264d519abb2d927cc551634969292"/>
         </item>
     </channel>
 </rss>
