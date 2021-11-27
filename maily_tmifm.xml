@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>메일리 ─ 차우진의 TMI.FM</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 05:32:04 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎧TMI.mp3 | 갑자기 분위기 폴란드 팝?!]]></title>
-            <link>https://maily.so/draft.briefing/posts/302f6bd4</link>
-            <guid>https://maily.so/draft.briefing/posts/302f6bd4</guid>
-            <pubDate>Mon, 15 Nov 2021 17:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[말많고고독한디제이의 플레이리스트]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily46fdf70ed1c193c6a3a4fb398f216f161636954319" length="0" type="image//maily46fdf70ed1c193c6a3a4fb398f216f161636954319"/>
-        </item>
-        <item>
-            <title><![CDATA[☕유튜브의 광고 수익은 한마디로 미쳤다]]></title>
-            <link>https://maily.so/draft.briefing/posts/9d94a113</link>
-            <guid>https://maily.so/draft.briefing/posts/9d94a113</guid>
-            <pubDate>Sat, 06 Nov 2021 05:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[&amp; 로블록스, NFT, 그래미 (지금 뭐가 벌어지는 거죠?)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily50bdad8174223a5f42f14645c42f90061636156811" length="0" type="image//maily50bdad8174223a5f42f14645c42f90061636156811"/>
-        </item>
-        <item>
-            <title><![CDATA[💬TMI.토크쇼 | '위드 코로나'와 #우무지]]></title>
-            <link>https://maily.so/draft.briefing/posts/752f3e0f</link>
-            <guid>https://maily.so/draft.briefing/posts/752f3e0f</guid>
-            <pubDate>Fri, 05 Nov 2021 17:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[라이브 음악 씬의 챌린지 혹은 문제의 재정의]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily78990fe0e3ffe26a460b3f69eb71495c1636106417" length="0" type="image//maily78990fe0e3ffe26a460b3f69eb71495c1636106417"/>
-        </item>
-        <item>
-            <title><![CDATA[💬TMI.FM 토크쇼 신청 | 음악 NFT의 가능성]]></title>
-            <link>https://maily.so/draft.briefing/posts/babea0c5</link>
-            <guid>https://maily.so/draft.briefing/posts/babea0c5</guid>
-            <pubDate>Fri, 05 Nov 2021 05:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[11월 9일 화요일 저녁 8시, 온라인]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily4515ba2df1d7fa22d58f028a96fc58de1636063286" length="0" type="image//maily4515ba2df1d7fa22d58f028a96fc58de1636063286"/>
-        </item>
-        <item>
-            <title><![CDATA[☕스포티파이 vs 애플뮤직]]></title>
-            <link>https://maily.so/draft.briefing/posts/ac067cde</link>
-            <guid>https://maily.so/draft.briefing/posts/ac067cde</guid>
-            <pubDate>Sat, 30 Oct 2021 05:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍의 양대 산맥에 대한 최신 소식]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily3246d5c91cf8c623fedda33423129dd81635563274" length="0" type="image//maily3246d5c91cf8c623fedda33423129dd81635563274"/>
-        </item>
-        <item>
-            <title><![CDATA[🎁SNS시대의 (팬) 커뮤니티]]></title>
-            <link>https://maily.so/draft.briefing/posts/f557c9</link>
-            <guid>https://maily.so/draft.briefing/posts/f557c9</guid>
-            <pubDate>Wed, 27 Oct 2021 05:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[함께 성장하는 공동체와 도전들]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailya918be84b530f293f99777449afa8ead1635285457" length="0" type="image//mailya918be84b530f293f99777449afa8ead1635285457"/>
-        </item>
-        <item>
-            <title><![CDATA[📻구독자님, <2021 케이팝 레이더 컨퍼런스>에 함께 가요]]></title>
-            <link>https://maily.so/draft.briefing/posts/665df30d</link>
-            <guid>https://maily.so/draft.briefing/posts/665df30d</guid>
-            <pubDate>Mon, 25 Oct 2021 05:32:17 GMT</pubDate>
-            <content:encoded><![CDATA[사.전.예.약.오.픈.]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily91502c1867b1db5d53b90a54575368731634982731" length="0" type="image//maily91502c1867b1db5d53b90a54575368731634982731"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maily.so/draft.briefing</id>
+    <title>메일리 ─ 차우진의 TMI.FM</title>
+    <updated>2021-11-27T17:39:41.684Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://maily.so/favicon-32x32.png</icon>
+</feed>
