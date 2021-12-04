@@ -11,7 +11,7 @@ waitUntil = "networkidle"
 [maily_tmifm]
 title = "메일리 ─ 차우진의 TMI.FM"
 url = "https://maily.so/draft.briefing"
-entrySelector = "ul[class='px-3 py-6 space-y-2 lg:space-y-4'] div[class='w-full h-auto flex flex-col flex bg-white hover:bg-gray-50 border border-gray-200']"
+entrySelector = "div[class='grid gap-2 lg:gap-4'] div[class='w-full h-auto flex flex-col flex border border-gray-200']"
 titleSelector = "div[class='text-gray-900 font-bold text-base lg:text-xl whitespace-normal truncate-2-lines']"
 linkSelector = "a"
 contentSelector = "p[class='text-gray-700 text-sm lg:text-base truncate-2-lines']"
