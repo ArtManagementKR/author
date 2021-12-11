@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 17:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 05:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,15 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MzBfMjMx/MDAxNjI3NjI5Nzk3MjE0.GQsq0YBugfJcODLi-4uzMlwACss-uyXVgUidLPV7cMQg.9mJir-a4aU7o0NX6RqFNahAaDNZI0qdcZqbD37GAOwgg.JPEG/brad-neathery-XrSzacdYbtQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[☕커피브리핑 | 메타버스에서 음악은 무엇보다 중요해질 것입니다 (메일리 ─ 차우진의 TMI.FM)]]></title>
+            <title><![CDATA[☕음악 산업은 기후위기에 어떻게 대응하고 있나요? (메일리 ─ 차우진의 TMI.FM)]]></title>
+            <link>https://maily.so/draft.briefing/posts/c96595bf</link>
+            <guid>https://maily.so/draft.briefing/posts/c96595bf</guid>
+            <pubDate>Sat, 11 Dec 2021 05:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[음반, 페스티벌, 투어 뿐 아니라 스트리밍과 NFT도 문제에요]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily353f2fb5eb76c92646c4bc7e9b9cfb031639191134" length="0" type="image//maily353f2fb5eb76c92646c4bc7e9b9cfb031639191134"/>
+        </item>
+        <item>
+            <title><![CDATA[☕메타버스에서 음악은 무엇보다 중요해질 것입니다 (메일리 ─ 차우진의 TMI.FM)]]></title>
             <link>https://maily.so/draft.briefing/posts/66c0b213</link>
             <guid>https://maily.so/draft.briefing/posts/66c0b213</guid>
             <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
             <content:encoded><![CDATA[SNS 시대에 대응하는 콘텐츠 창작자의 태도]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyb4937537e837648641fc510d32f452b11632764752" length="0" type="image//mailyb4937537e837648641fc510d32f452b11632764752"/>
-        </item>
-        <item>
-            <title><![CDATA[☕유니버설뮤직그룹은 상장했고, 라디오헤드는 에픽게임즈와 협업한다 (메일리 ─ 차우진의 TMI.FM)]]></title>
-            <link>https://maily.so/draft.briefing/posts/f6ff79</link>
-            <guid>https://maily.so/draft.briefing/posts/f6ff79</guid>
-            <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[그리고 트위터, NFT, 메타버스, 콜드플레이와 BTS의 콜라보 소식]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily56c9735ed3486efc6c531ebdaaf703701632511354" length="0" type="image//maily56c9735ed3486efc6c531ebdaaf703701632511354"/>
         </item>
     </channel>
 </rss>
