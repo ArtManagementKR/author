@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 17:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 05:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 19 Oct 2021 16:34:33 GMT</pubDate>
             <content:encoded><![CDATA[크리에이터의 글쓰기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MzBfMjMx/MDAxNjI3NjI5Nzk3MjE0.GQsq0YBugfJcODLi-4uzMlwACss-uyXVgUidLPV7cMQg.9mJir-a4aU7o0NX6RqFNahAaDNZI0qdcZqbD37GAOwgg.JPEG/brad-neathery-XrSzacdYbtQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[☕캐리 메리 크리스마스 (메일리 ─ 차우진의 TMI.FM)]]></title>
+            <link>https://maily.so/draft.briefing/posts/b165609f</link>
+            <guid>https://maily.so/draft.briefing/posts/b165609f</guid>
+            <pubDate>Sat, 18 Dec 2021 05:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[네, 머라이어 캐리의 계절이 왔어요! (feat.인터뷰)]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailyd53e586a98a90269375c7ac7cb5357681639762309" length="0" type="image//mailyd53e586a98a90269375c7ac7cb5357681639762309"/>
         </item>
         <item>
             <title><![CDATA[☕음악 산업은 기후위기에 어떻게 대응하고 있나요? (메일리 ─ 차우진의 TMI.FM)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
             <content:encoded><![CDATA[출처=내 머리]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily051ffbcb68474fa6dab231bbf7a7b8f01632768083" length="0" type="image//maily051ffbcb68474fa6dab231bbf7a7b8f01632768083"/>
-        </item>
-        <item>
-            <title><![CDATA[🎁더 키드 라로이와 디핵: 독립 아티스트가 틱톡을 쓰는 방법 (메일리 ─ 차우진의 TMI.FM)]]></title>
-            <link>https://maily.so/draft.briefing/posts/05bda0</link>
-            <guid>https://maily.so/draft.briefing/posts/05bda0</guid>
-            <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[SNS 시대에 대응하는 콘텐츠 창작자의 태도]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyb4937537e837648641fc510d32f452b11632764752" length="0" type="image//mailyb4937537e837648641fc510d32f452b11632764752"/>
         </item>
     </channel>
 </rss>
