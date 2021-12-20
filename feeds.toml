@@ -17,3 +17,11 @@ linkSelector = "a.content_text_link"
 contentSelector = "a.content_category"
 imageSelector = "a.content_thumb img"
 waitUntil = "networkidle"
+
+[tmifm_kakaotalk]
+title = "TMI.FM 뮤직랩스 ─ 카카오톡 채널"
+url = "https://pf.kakao.com/_nuEns"
+entrySelector = "ul.list_news li"
+titleSelector = "span.txt_g"
+linkSelector = "a.link_item"
+waitUntil = "networkidle"
