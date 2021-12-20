@@ -25,3 +25,13 @@ entrySelector = "ul.list_news li"
 titleSelector = "span.txt_g"
 linkSelector = "a.link_item"
 waitUntil = "networkidle"
+
+[zenerate_glivery]
+title = "제너레이트 ─ 글리버리"
+url = "https://zenerate.glivery.co.kr/"
+entrySelector = "div.full-width div.card-container.full-width"
+titleSelector = "div.main-card-title.ellipsis.cursor-pointer a"
+linkSelector = "div.main-card-title.ellipsis.cursor-pointer a"
+contentSelector = "div.main-card-summary.ellipsis.cursor-pointer"
+imageSelector = "div.q-img__image.absolute-full"
+waitUntil = "networkidle"
