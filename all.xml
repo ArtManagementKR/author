@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:26:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,13 @@
             <pubDate>Tue, 19 Oct 2021 16:34:33 GMT</pubDate>
             <content:encoded><![CDATA[크리에이터의 글쓰기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MzBfMjMx/MDAxNjI3NjI5Nzk3MjE0.GQsq0YBugfJcODLi-4uzMlwACss-uyXVgUidLPV7cMQg.9mJir-a4aU7o0NX6RqFNahAaDNZI0qdcZqbD37GAOwgg.JPEG/brad-neathery-XrSzacdYbtQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니버설 뮤직 그룹의 상장이 의미하는 것 (TMI.FM 뮤직랩스 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_nuEns/86947893</link>
+            <guid>https://pf.kakao.com/_nuEns/86947893</guid>
+            <pubDate>Mon, 20 Dec 2021 05:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_nuEns/86947893"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b5yubE/btrfIYNh9HR/xfxNmaHsBpr33xuGinPut0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유니버설 뮤직 그룹의 상장이 의미하는 것</span><em class="emph_g">www.newspim.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
