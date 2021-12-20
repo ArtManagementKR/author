@@ -11,4 +11,5 @@ https://artmanagementkr.github.io/article/all.xml
 - [카카오톡 채널](https://pf.kakao.com/_nuEns): https://artmanagementkr.github.io/article/tmifm_kakaotalk.xml
 
 ### 김도현
+- [링크트리](https://linktr.ee/Re_nez0)
 - [글리버리](https://zenerate.glivery.co.kr/): https://artmanagementkr.github.io/article/zenerate_glivery.xml
