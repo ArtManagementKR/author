@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 23:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 01:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메일] 2021 결산 : 기억에 남는 케이팝 30]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2271193214315</link>
+            <guid>https://zenerate.glivery.co.kr/p/2271193214315</guid>
+            <pubDate>Tue, 21 Dec 2021 01:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project%20%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB-1639997552336.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[메일] 2021 결산 : 기억에 남는 케이팝 30]]></title>
             <link>https://zenerate.glivery.co.kr/p/2271149666416</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Dec 2021 05:49:42 GMT</pubDate>
             <content:encoded><![CDATA[11월 24일(한국 시각) 새벽 제64회 그래미 어워즈 후보자 발표 중계가 있었습니다.👉 제64회 그래미 어워즈 전체 후보 보러가기 (링크)이번 그래미 어워즈는 예년에 비해 많은]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/2022-grammys-how-do-i-watch-1637804104408.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메일] 해외 음원 스트리밍 서비스 탐구 : ① 유튜브 뮤직]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2268104287982</link>
-            <guid>https://zenerate.glivery.co.kr/p/2268104287982</guid>
-            <pubDate>Mon, 20 Dec 2021 05:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;OTT 서비스 전쟁이다. 넷플릭스, 웨이브, 왓챠 등 기존 서비스들에 더해 애플TV+(애플티비플러스), 디즈니+(디즈니플러스) 등 해외 서비스까지 국내 서비스를 개시했고]]></content:encoded>
-            <enclosure url="https://bookjournalism.s3.ap-northeast-2.amazonaws.com/journal/thumb-05e638b2-467a-4269-802f-0618de3f117f_600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
