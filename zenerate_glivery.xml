@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 17:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 18:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2021 결산] 기억에 남는 가요 앨범 15장]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2271262109455</link>
+            <guid>https://zenerate.glivery.co.kr/p/2271262109455</guid>
+            <pubDate>Tue, 21 Dec 2021 18:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있고, 각 항목당 15건]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A2%E1%86%AF%E1%84%87%E1%85%A5%E1%86%B7.png-1640109761280.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[메일] 2021 결산 : 기억에 남는 케이팝 30]]></title>
             <link>https://zenerate.glivery.co.kr/p/2271193214315</link>
@@ -75,14 +83,6 @@
             <title><![CDATA[[메일] 방탄소년단이 그래미 본상 후보에 오르지 못한 이유]]></title>
             <link>https://zenerate.glivery.co.kr/p/2268957893376</link>
             <guid>https://zenerate.glivery.co.kr/p/2268957893376</guid>
-            <pubDate>Mon, 20 Dec 2021 05:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일(한국 시각) 새벽 제64회 그래미 어워즈 후보자 발표 중계가 있었습니다.👉 제64회 그래미 어워즈 전체 후보 보러가기 (링크)이번 그래미 어워즈는 예년에 비해 많은]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/2022-grammys-how-do-i-watch-1637804104408.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[칼럼] 방탄소년단이 그래미 본상 후보에 오르지 못한 이유]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2268957734504</link>
-            <guid>https://zenerate.glivery.co.kr/p/2268957734504</guid>
             <pubDate>Mon, 20 Dec 2021 05:49:42 GMT</pubDate>
             <content:encoded><![CDATA[11월 24일(한국 시각) 새벽 제64회 그래미 어워즈 후보자 발표 중계가 있었습니다.👉 제64회 그래미 어워즈 전체 후보 보러가기 (링크)이번 그래미 어워즈는 예년에 비해 많은]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/2022-grammys-how-do-i-watch-1637804104408.jpeg" length="0" type="image/jpeg"/>
