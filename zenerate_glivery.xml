@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 18:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 19:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2021 결산] 기억에 남는 가요 싱글 15곡]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2271263682790</link>
+            <guid>https://zenerate.glivery.co.kr/p/2271263682790</guid>
+            <pubDate>Tue, 21 Dec 2021 19:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있고, 각 항목당 15건]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF.png-1640109976244.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[2021 결산] 기억에 남는 가요 앨범 15장]]></title>
             <link>https://zenerate.glivery.co.kr/p/2271262109455</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Dec 2021 05:49:42 GMT</pubDate>
             <content:encoded><![CDATA[11월 30일 밤 9시 MBC의 창사 60주년 특별기획으로 아델의 컴백 콘서트 '원 데이 위드 아델(One Day with Adele)'이 방송됐습니다. 6년 만에 새 정규 앨범]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-12-01%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%208.15.36-1638314141985.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메일] 방탄소년단이 그래미 본상 후보에 오르지 못한 이유]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2268957893376</link>
-            <guid>https://zenerate.glivery.co.kr/p/2268957893376</guid>
-            <pubDate>Mon, 20 Dec 2021 05:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[11월 24일(한국 시각) 새벽 제64회 그래미 어워즈 후보자 발표 중계가 있었습니다.👉 제64회 그래미 어워즈 전체 후보 보러가기 (링크)이번 그래미 어워즈는 예년에 비해 많은]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/2022-grammys-how-do-i-watch-1637804104408.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
