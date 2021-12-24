@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 11:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 11:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@
             <title><![CDATA[[Longblack] 머라이어 캐리 (제너레이트 ─ 링크트리)]]></title>
             <link>https://www.longblack.co/note/141</link>
             <guid>https://www.longblack.co/note/141</guid>
-            <pubDate>Fri, 24 Dec 2021 11:28:13 GMT</pubDate>
+            <pubDate>Fri, 24 Dec 2021 11:29:01 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.longblack.co/note/141" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[Longblack] 머라이어 캐리</p></a></div>]]></content:encoded>
         </item>
         <item>
@@ -387,7 +387,7 @@
             <title><![CDATA[[FIGK] 김도헌의 FIGK (제너레이트 ─ 링크트리)]]></title>
             <link>https://figk.net/search?searchText=%EA%B9%80%EB%8F%84%ED%97%8C</link>
             <guid>https://figk.net/search?searchText=%EA%B9%80%EB%8F%84%ED%97%8C</guid>
-            <pubDate>Fri, 24 Dec 2021 11:28:13 GMT</pubDate>
+            <pubDate>Fri, 24 Dec 2021 11:29:01 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://figk.net/search?searchText=%EA%B9%80%EB%8F%84%ED%97%8C" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[FIGK] 김도헌의 FIGK </p></a></div>]]></content:encoded>
         </item>
     </channel>
