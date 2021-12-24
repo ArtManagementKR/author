@@ -1,4 +1,4 @@
-# 아티클
+# 작성자
 https://artmanagementkr.github.io/article/all.xml
 
 ## 평론가
