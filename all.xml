@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 02:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 03:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -335,25 +335,18 @@
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project%20%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB-1639997552336.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[2021 결산] 기억에 남는 음악 100 (제너레이트 ─ 링크트리)]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2271712889672</link>
+            <guid>https://zenerate.glivery.co.kr/p/2271712889672</guid>
+            <pubDate>Sun, 26 Dec 2021 23:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271712889672" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 기억에 남는 음악 100</p></a></div>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[Longblack] 머라이어 캐리 (제너레이트 ─ 링크트리)]]></title>
             <link>https://www.longblack.co/note/141</link>
             <guid>https://www.longblack.co/note/141</guid>
             <pubDate>Fri, 24 Dec 2021 11:29:01 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.longblack.co/note/141" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[Longblack] 머라이어 캐리</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 팝 싱글 15곡 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271316893671</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271316893671</guid>
-            <pubDate>Thu, 23 Dec 2021 06:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271316893671" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 팝 싱글 15곡</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 팝 앨범 15장 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271390939871</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271390939871</guid>
-            <pubDate>Thu, 23 Dec 2021 06:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271390939871" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 팝 앨범 15장</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 결산] 가요 앨범 15장 (제너레이트 ─ 링크트리)]]></title>
