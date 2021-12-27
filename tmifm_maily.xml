@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 01:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 02:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕2022년에 벌어질 일들]]></title>
+            <link>https://maily.so/draft.briefing/posts/235260ae</link>
+            <guid>https://maily.so/draft.briefing/posts/235260ae</guid>
+            <pubDate>Mon, 27 Dec 2021 02:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[세상이 너무 빨리 변하고 있나요?]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily78a42182e44c9dfe90807134b087876d1640569739" length="0" type="image//maily78a42182e44c9dfe90807134b087876d1640569739"/>
+        </item>
         <item>
             <title><![CDATA[☕메리 크리스마스 앤 해피 뉴 공지]]></title>
             <link>https://maily.so/draft.briefing/posts/255d589b</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Dec 2021 05:15:00 GMT</pubDate>
             <content:encoded><![CDATA[멤버십 전용 공간이 생겼습니다]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010" length="0" type="image//mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010"/>
-        </item>
-        <item>
-            <title><![CDATA[☕세계에서 가장 중요한 K-POP 도시들은?]]></title>
-            <link>https://maily.so/draft.briefing/posts/6a2ab9</link>
-            <guid>https://maily.so/draft.briefing/posts/6a2ab9</guid>
-            <pubDate>Mon, 20 Dec 2021 05:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 케이팝의 현재, 그리고 음악과 게임의 미래]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily2e1dcd2ce233bb97674135bcc9d701d11633131378" length="0" type="image//maily2e1dcd2ce233bb97674135bcc9d701d11633131378"/>
         </item>
     </channel>
 </rss>

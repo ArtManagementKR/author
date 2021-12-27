@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 01:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 02:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕2022년에 벌어질 일들 (차우진의 TMI.FM ─ 메일리)]]></title>
+            <link>https://maily.so/draft.briefing/posts/235260ae</link>
+            <guid>https://maily.so/draft.briefing/posts/235260ae</guid>
+            <pubDate>Mon, 27 Dec 2021 02:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[세상이 너무 빨리 변하고 있나요?]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily78a42182e44c9dfe90807134b087876d1640569739" length="0" type="image//maily78a42182e44c9dfe90807134b087876d1640569739"/>
+        </item>
         <item>
             <title><![CDATA[☕메리 크리스마스 앤 해피 뉴 공지 (차우진의 TMI.FM ─ 메일리)]]></title>
             <link>https://maily.so/draft.briefing/posts/255d589b</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://cdn.maily.so/mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010" length="0" type="image//mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010"/>
         </item>
         <item>
-            <title><![CDATA[☕세계에서 가장 중요한 K-POP 도시들은? (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/6a2ab9</link>
-            <guid>https://maily.so/draft.briefing/posts/6a2ab9</guid>
-            <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 케이팝의 현재, 그리고 음악과 게임의 미래]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily2e1dcd2ce233bb97674135bcc9d701d11633131378" length="0" type="image//maily2e1dcd2ce233bb97674135bcc9d701d11633131378"/>
-        </item>
-        <item>
             <title><![CDATA[크리에이터 경제 시대의 글쓰기 (2) (TMI.FM 팬덤랩스 ─ 네이버 프리미엄콘텐츠)]]></title>
             <link>https://contents.premium.naver.com/tmifm/labs/contents/210916181041429QH</link>
             <guid>https://contents.premium.naver.com/tmifm/labs/contents/210916181041429QH</guid>
@@ -260,7 +260,7 @@
             <guid>https://zenerate.glivery.co.kr/p/2271712889672</guid>
             <pubDate>Sun, 26 Dec 2021 23:23:12 GMT</pubDate>
             <content:encoded><![CDATA[2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있고, 각 항목당 15건]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AD-1640111782972.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/100.jpg-1640572792494.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2021 결산] 추가 추천 : 기억에 남는 앨범 10장 (제너레이트 ─ 글리버리)]]></title>
