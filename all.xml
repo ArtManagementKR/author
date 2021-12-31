@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 01:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 02:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,39 +342,11 @@
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271712889672" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 기억에 남는 음악 100</p></a></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Longblack] 머라이어 캐리 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://www.longblack.co/note/141</link>
-            <guid>https://www.longblack.co/note/141</guid>
-            <pubDate>Fri, 24 Dec 2021 11:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.longblack.co/note/141" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[Longblack] 머라이어 캐리</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 가요 앨범 15장 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271262109455</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271262109455</guid>
-            <pubDate>Tue, 21 Dec 2021 18:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271262109455" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 가요 앨범 15장</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 가요 싱글 15곡 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271263682790</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271263682790</guid>
-            <pubDate>Tue, 21 Dec 2021 19:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271263682790" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 가요 싱글 15곡</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 케이팝 싱글 15곡 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271146070361</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271146070361</guid>
-            <pubDate>Mon, 20 Dec 2021 10:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271146070361" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 케이팝 싱글 15곡</p></a></div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 케이팝 앨범 15장 (제너레이트 ─ 링크트리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271146574784</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271146574784</guid>
-            <pubDate>Mon, 20 Dec 2021 10:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/p/2271146574784" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[2021 결산] 케이팝 앨범 15장</p></a></div>]]></content:encoded>
+            <title><![CDATA[[국방일보] 일상의 환상 (제너레이트 ─ 링크트리)]]></title>
+            <link>https://kookbang.dema.mil.kr/newsWeb/20211231/1/BBSMSTR_000000100134/view.do</link>
+            <guid>https://kookbang.dema.mil.kr/newsWeb/20211231/1/BBSMSTR_000000100134/view.do</guid>
+            <pubDate>Fri, 31 Dec 2021 02:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://kookbang.dema.mil.kr/newsWeb/20211231/1/BBSMSTR_000000100134/view.do" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[국방일보] 일상의 환상</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[FIGK] 김도헌의 FIGK (제너레이트 ─ 링크트리)]]></title>
@@ -382,6 +354,13 @@
             <guid>https://figk.net/search?searchText=%EA%B9%80%EB%8F%84%ED%97%8C</guid>
             <pubDate>Fri, 24 Dec 2021 11:29:01 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://figk.net/search?searchText=%EA%B9%80%EB%8F%84%ED%97%8C" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[FIGK] 김도헌의 FIGK </p></a></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Newsletter] 제너레이트 Zenerate (제너레이트 ─ 링크트리)]]></title>
+            <link>https://zenerate.glivery.co.kr/</link>
+            <guid>https://zenerate.glivery.co.kr/</guid>
+            <pubDate>Fri, 31 Dec 2021 02:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://zenerate.glivery.co.kr/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[Newsletter] 제너레이트 Zenerate</p></a></div>]]></content:encoded>
         </item>
     </channel>
 </rss>
