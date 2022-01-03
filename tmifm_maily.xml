@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 01:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:42:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕[돈 룩 업]의 내용은 메릴 스트립 덕분에 바뀌었다?]]></title>
+            <link>https://maily.so/draft.briefing/posts/34aa933e</link>
+            <guid>https://maily.so/draft.briefing/posts/34aa933e</guid>
+            <pubDate>Mon, 03 Jan 2022 02:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[※ 스포일러가 일부 포함되었지만, 그렇다고 이 영화의 재미가 줄지는 않을 겁니다 😀]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailybb47a404222a5e2fc61f54ef7ba757eb1641160639" length="0" type="image//mailybb47a404222a5e2fc61f54ef7ba757eb1641160639"/>
+        </item>
         <item>
             <title><![CDATA[☕2022년에 벌어질 일들]]></title>
             <link>https://maily.so/draft.briefing/posts/235260ae</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 02 Jan 2022 14:20:43 GMT</pubDate>
             <content:encoded><![CDATA[※ 월간/연간 멤버십 분들께]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailye2d07ddde894994582784011da0c58661633181058" length="0" type="image//mailye2d07ddde894994582784011da0c58661633181058"/>
-        </item>
-        <item>
-            <title><![CDATA[📻멤버십 살롱 오픈]]></title>
-            <link>https://maily.so/draft.briefing/posts/421ea8</link>
-            <guid>https://maily.so/draft.briefing/posts/421ea8</guid>
-            <pubDate>Sun, 02 Jan 2022 14:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[멤버십 전용 공간이 생겼습니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010" length="0" type="image//mailyd8446e7a7ff18c514a003c6aaa02c04f1633158010"/>
         </item>
     </channel>
 </rss>
