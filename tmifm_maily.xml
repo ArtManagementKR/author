@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 10:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 11:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📻일많고고독한밤 | 고양이 같은 미래]]></title>
+            <link>https://maily.so/draft.briefing/posts/d3844d17</link>
+            <guid>https://maily.so/draft.briefing/posts/d3844d17</guid>
+            <pubDate>Tue, 04 Jan 2022 11:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[구독자님, 해피 뉴 이어에요.]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily264ebab2b595ba84a4e82032a8446f321641265438" length="0" type="image//maily264ebab2b595ba84a4e82032a8446f321641265438"/>
+        </item>
         <item>
             <title><![CDATA[☕[돈 룩 업]의 내용은 메릴 스트립 덕분에 바뀌었다?]]></title>
             <link>https://maily.so/draft.briefing/posts/34aa933e</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 02 Jan 2022 14:20:43 GMT</pubDate>
             <content:encoded><![CDATA[구독자님이 뽑아주세요!]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailye54aa21d3761ddd94798e52de648dc901633594385" length="0" type="image//mailye54aa21d3761ddd94798e52de648dc901633594385"/>
-        </item>
-        <item>
-            <title><![CDATA[🎁멤버십 커뮤니티 TMI.salon에 초대합니다]]></title>
-            <link>https://maily.so/draft.briefing/posts/cbc3ef</link>
-            <guid>https://maily.so/draft.briefing/posts/cbc3ef</guid>
-            <pubDate>Sun, 02 Jan 2022 14:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[※ 월간/연간 멤버십 분들께]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailye2d07ddde894994582784011da0c58661633181058" length="0" type="image//mailye2d07ddde894994582784011da0c58661633181058"/>
         </item>
     </channel>
 </rss>
