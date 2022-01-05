@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 09:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 10:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,6 +333,13 @@
             <pubDate>Tue, 21 Dec 2021 23:24:08 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;&nbsp;2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AD-1640111782972.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이팝의 역사, 100번의 웨이브 (제너레이트 ─ 링크트리)]]></title>
+            <link>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286205966</link>
+            <guid>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286205966</guid>
+            <pubDate>Wed, 05 Jan 2022 10:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=286205966" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">케이팝의 역사, 100번의 웨이브</p></a></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2021 결산] 기억에 남는 음악 100 (제너레이트 ─ 링크트리)]]></title>
