@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 23:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 01:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕웹 3.0과 음악(가)의 미래 (차우진의 TMI.FM ─ 메일리)]]></title>
+            <link>https://maily.so/draft.briefing/posts/1de907b1</link>
+            <guid>https://maily.so/draft.briefing/posts/1de907b1</guid>
+            <pubDate>Mon, 10 Jan 2022 01:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[과연, 음악으로만 먹고 살 수 있을까요?]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily33d1781789e52aec3a7a36e68e001db21641776285" length="0" type="image//maily33d1781789e52aec3a7a36e68e001db21641776285"/>
+        </item>
         <item>
             <title><![CDATA[📻일많고고독한밤 | 고양이 같은 미래 (차우진의 TMI.FM ─ 메일리)]]></title>
             <link>https://maily.so/draft.briefing/posts/d3844d17</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 02 Jan 2022 14:20:43 GMT</pubDate>
             <content:encoded><![CDATA[※ 2일 뒤 멤버십 콘텐츠로 전환됩니다.]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily2750a6f1db85ab71e4217e05d87493551633752560" length="0" type="image//maily2750a6f1db85ab71e4217e05d87493551633752560"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 가장 인상적인 K-POP 음반 디자인은? (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/fc4736</link>
-            <guid>https://maily.so/draft.briefing/posts/fc4736</guid>
-            <pubDate>Sun, 02 Jan 2022 14:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[구독자님이 뽑아주세요!]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailye54aa21d3761ddd94798e52de648dc901633594385" length="0" type="image//mailye54aa21d3761ddd94798e52de648dc901633594385"/>
         </item>
         <item>
             <title><![CDATA[크리에이터 경제 시대의 글쓰기 (2) (TMI.FM 팬덤랩스 ─ 네이버 프리미엄콘텐츠)]]></title>
