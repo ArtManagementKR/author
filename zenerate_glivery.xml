@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리포트] 틱톡의 2021년 : 틱톡은 음악 산업을 바꾼다.]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2273293480144</link>
+            <guid>https://zenerate.glivery.co.kr/p/2273293480144</guid>
+            <pubDate>Fri, 14 Jan 2022 07:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[2021년도, 2022년도, 새해 첫 히트곡은 틱톡에서 나왔다.지난해 1월 8일 세상을 놀라게 한 올리비아 로드리고의 'drivers license'에 이어 올해는캐나다의 18살]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/TBH_J-6WUfihETTiBzPH2zTj4P4.jpeg" length="0" type="image/fjpg/"/>
+        </item>
         <item>
             <title><![CDATA[해외 음원 스트리밍 서비스 탐구 : ② 스포티파이]]></title>
             <link>https://zenerate.glivery.co.kr/p/2272500313900</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;&nbsp;2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%91%E1%85%A1%E1%86%B8%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF-1640236694985.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메일] 2021 결산 : 기억에 남는 가요 30]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271263858555</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271263858555</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;&nbsp;2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%92%E1%85%A2%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A1%E1%84%8B%E1%85%AD-1640111782972.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
