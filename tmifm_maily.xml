@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 01:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 02:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕메타버스의 최대 수혜자는 K-POP]]></title>
+            <link>https://maily.so/draft.briefing/posts/0fb2b5fb</link>
+            <guid>https://maily.so/draft.briefing/posts/0fb2b5fb</guid>
+            <pubDate>Mon, 17 Jan 2022 02:44:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022년의 키워드는 '메타버스'가 될 것입니다]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailyc9d301b35e1f396af12729b69c2647d91642383734" length="0" type="image//mailyc9d301b35e1f396af12729b69c2647d91642383734"/>
+        </item>
         <item>
             <title><![CDATA[💡크리에이터 도구와 D2C의 시대]]></title>
             <link>https://maily.so/draft.briefing/posts/c0dd50be</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[NFT는 왜 크리에이터에게 중요한 생태계일까?]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyddf6ed8c3b872f2a522d4053716127921634552194" length="0" type="image//mailyddf6ed8c3b872f2a522d4053716127921634552194"/>
-        </item>
-        <item>
-            <title><![CDATA[☕아델과 음악 산업]]></title>
-            <link>https://maily.so/draft.briefing/posts/1441206d</link>
-            <guid>https://maily.so/draft.briefing/posts/1441206d</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[아델의 신곡 "Easy On Me"와 여러 반응들]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily6943138ce7deb929b64eebd8894d6ab61634436519" length="0" type="image//maily6943138ce7deb929b64eebd8894d6ab61634436519"/>
         </item>
     </channel>
 </rss>
