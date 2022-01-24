@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 01:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕크리에이터 경제가 모든 걸 바꾸고 있습니다]]></title>
+            <link>https://maily.so/draft.briefing/posts/44af7c14</link>
+            <guid>https://maily.so/draft.briefing/posts/44af7c14</guid>
+            <pubDate>Mon, 24 Jan 2022 02:57:19 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브, 틱톡, 인스타그램 그리고 NFT와 이더리움!]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailycc6bac047338ea137b41598e9c4b71d41642988961" length="0" type="image//mailycc6bac047338ea137b41598e9c4b71d41642988961"/>
+        </item>
         <item>
             <title><![CDATA[📚트리거 시티(1/3) - '트리거 시티'란 무엇인가?]]></title>
             <link>https://maily.so/draft.briefing/posts/a6bb8d79</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[사.전.예.약.오.픈.]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily91502c1867b1db5d53b90a54575368731634982731" length="0" type="image//maily91502c1867b1db5d53b90a54575368731634982731"/>
-        </item>
-        <item>
-            <title><![CDATA[☕한류 혹은 아시안 문화의 영향력은 왜 커지고 있을까?]]></title>
-            <link>https://maily.so/draft.briefing/posts/c7428c3a</link>
-            <guid>https://maily.so/draft.briefing/posts/c7428c3a</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 관점에서 볼 필요가 있습니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily82c2d5f54293f264d519abb2d927cc551634969292" length="0" type="image//maily82c2d5f54293f264d519abb2d927cc551634969292"/>
         </item>
     </channel>
 </rss>
