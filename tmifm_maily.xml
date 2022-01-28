@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💡크리에이터에게는 '투자자의 마음'이 필요합니다]]></title>
+            <link>https://maily.so/draft.briefing/posts/80ca4507</link>
+            <guid>https://maily.so/draft.briefing/posts/80ca4507</guid>
+            <pubDate>Fri, 28 Jan 2022 06:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[나를 경영하는 마음 vs. 나를 기르는 마음]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily5ed2be5ab2a7fac596cf3d4005a71f4e1643347848" length="0" type="image//maily5ed2be5ab2a7fac596cf3d4005a71f4e1643347848"/>
+        </item>
         <item>
             <title><![CDATA[☕크리에이터 경제가 모든 걸 바꾸고 있습니다]]></title>
             <link>https://maily.so/draft.briefing/posts/44af7c14</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[함께 성장하는 공동체와 도전들]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailya918be84b530f293f99777449afa8ead1635285457" length="0" type="image//mailya918be84b530f293f99777449afa8ead1635285457"/>
-        </item>
-        <item>
-            <title><![CDATA[📻구독자님, <2021 케이팝 레이더 컨퍼런스>에 함께 가요]]></title>
-            <link>https://maily.so/draft.briefing/posts/665df30d</link>
-            <guid>https://maily.so/draft.briefing/posts/665df30d</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[사.전.예.약.오.픈.]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily91502c1867b1db5d53b90a54575368731634982731" length="0" type="image//maily91502c1867b1db5d53b90a54575368731634982731"/>
         </item>
     </channel>
 </rss>
