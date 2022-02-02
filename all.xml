@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 19:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 20:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[📻일많고고독한밤 | "막고 품어라, 낚시질 하지 말고." (차우진의 TMI.FM ─ 메일리)]]></title>
+            <link>https://maily.so/draft.briefing/posts/cdbd5a0d</link>
+            <guid>https://maily.so/draft.briefing/posts/cdbd5a0d</guid>
+            <pubDate>Wed, 02 Feb 2022 20:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[양승우의 &lt;나의 다큐사진 분투기&gt;를 읽었습니다]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily101aa8fe66535848474269b25843cf541643832252" length="0" type="image//maily101aa8fe66535848474269b25843cf541643832252"/>
+        </item>
         <item>
             <title><![CDATA[☕메타버스+×음악=게임 (차우진의 TMI.FM ─ 메일리)]]></title>
             <link>https://maily.so/draft.briefing/posts/0013164f</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
             <content:encoded><![CDATA[11월 9일 화요일 저녁 8시, 온라인]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily4515ba2df1d7fa22d58f028a96fc58de1636063286" length="0" type="image//maily4515ba2df1d7fa22d58f028a96fc58de1636063286"/>
-        </item>
-        <item>
-            <title><![CDATA[☕스포티파이 vs 애플뮤직 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/ac067cde</link>
-            <guid>https://maily.so/draft.briefing/posts/ac067cde</guid>
-            <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍의 양대 산맥에 대한 최신 소식]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily3246d5c91cf8c623fedda33423129dd81635563274" length="0" type="image//maily3246d5c91cf8c623fedda33423129dd81635563274"/>
         </item>
         <item>
             <title><![CDATA[크리에이터 경제 시대의 글쓰기 (2) (TMI.FM 팬덤랩스 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -338,7 +338,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://ArtManagementKR.github.io/author/all.xml</link>
             <guid>https://ArtManagementKR.github.io/author/all.xml</guid>
-            <pubDate>Wed, 02 Feb 2022 19:17:48 GMT</pubDate>
+            <pubDate>Wed, 02 Feb 2022 20:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
