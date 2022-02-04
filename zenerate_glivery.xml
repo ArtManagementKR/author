@@ -4,9 +4,25 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 07:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 08:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🤬 스포티파이 위기 ① 조 로건, 닐 영, 그리고...]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2275113930696</link>
+            <guid>https://zenerate.glivery.co.kr/p/2275113930696</guid>
+            <pubDate>Fri, 04 Feb 2022 08:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에&nbsp;공개서한을 보내며&nbsp;팟캐스트 '조 로건 익]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1643959760958.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시리즈] 스포티파이 위기 ① 조 로건, 닐 영, 그리고...]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2275113663890</link>
+            <guid>https://zenerate.glivery.co.kr/p/2275113663890</guid>
+            <pubDate>Fri, 04 Feb 2022 08:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에공개서한을 보내며팟캐스트 '조 로건 익스피리언스(The Joe Roga]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1643959760958.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[📚 베일 벗은 하이브 오리지널 스토리를 알아보자.]]></title>
             <link>https://zenerate.glivery.co.kr/p/2274273229721</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
             <content:encoded><![CDATA[2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있고, 각 항목당 15건]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/100.jpg-1640572792494.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 결산] 추가 추천 : 기억에 남는 앨범 10장]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271712432926</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271712432926</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있고, 각 항목당 15건]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1640560379306.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메일] 2021 결산 : 기억에 남는 팝 30]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271391314111</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271391314111</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;&nbsp;2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/%E1%84%91%E1%85%A1%E1%86%B8%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC-1640239362926.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
