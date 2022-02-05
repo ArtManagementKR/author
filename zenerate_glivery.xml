@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 10:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 11:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시리즈] 스포티파이 위기 ② 음악 대신 팟캐스터를 택하다]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2275209442512</link>
+            <guid>https://zenerate.glivery.co.kr/p/2275209442512</guid>
+            <pubDate>Sat, 05 Feb 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에 공개서한을 보내며 팟캐스트 '조 로건 익스피리언스(The Joe Ro]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/photo-1643208589889-4f02359645c7-1644057606930.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[🤬 스포티파이 위기 ① 조 로건, 닐 영, 그리고...]]></title>
             <link>https://zenerate.glivery.co.kr/p/2275113930696</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;&nbsp;요약1. 연합 콘서트를 꾸준히 개최한 SM의 새해 온라인 콘서트2. 주춤하던 2010년대 말을 딛고 오리지널 스토리로 부활 꿈꾸는 SM3. 무료 공연, 사전]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FPCI%2Fimage%2FVa9iQFr6VHlsAACuC4JbhNXcuZM.jpeg" length="0" type="image//thumb/R1280x0/"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 제너레이트 결산] 기억에 남는 음악 100]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2271712889672</link>
-            <guid>https://zenerate.glivery.co.kr/p/2271712889672</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 연말 결산을 공개합니다. 음악 100건을 선정했습니다. 케이팝, 가요, 팝, 추가 추천 총 4개 부문입니다. 각 부문은 싱글 / 앨범으로 나눠져 있고, 각 항목당 15건]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/100.jpg-1640572792494.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
