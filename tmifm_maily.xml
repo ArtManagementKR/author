@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💡첫 ‘뉴스레터’를 보내기까지 12년이 걸린 이유]]></title>
+            <link>https://maily.so/draft.briefing/posts/96dc54c8</link>
+            <guid>https://maily.so/draft.briefing/posts/96dc54c8</guid>
+            <pubDate>Mon, 07 Feb 2022 01:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;파인더스&gt; 매거진에 쓴 칼럼을 공유합니다]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily5de3be84ab329cf1e9a3cc824cbd32551644191501" length="0" type="image//maily5de3be84ab329cf1e9a3cc824cbd32551644191501"/>
+        </item>
         <item>
             <title><![CDATA[📻일많고고독한밤 | "막고 품어라, 낚시질 하지 말고."]]></title>
             <link>https://maily.so/draft.briefing/posts/cdbd5a0d</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[라이브 음악 씬의 챌린지 혹은 문제의 재정의]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily78990fe0e3ffe26a460b3f69eb71495c1636106417" length="0" type="image//maily78990fe0e3ffe26a460b3f69eb71495c1636106417"/>
-        </item>
-        <item>
-            <title><![CDATA[💬TMI.FM 토크쇼 신청 | 음악 NFT의 가능성]]></title>
-            <link>https://maily.so/draft.briefing/posts/babea0c5</link>
-            <guid>https://maily.so/draft.briefing/posts/babea0c5</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[11월 9일 화요일 저녁 8시, 온라인]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily4515ba2df1d7fa22d58f028a96fc58de1636063286" length="0" type="image//maily4515ba2df1d7fa22d58f028a96fc58de1636063286"/>
         </item>
     </channel>
 </rss>
