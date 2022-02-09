@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 23:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 01:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕인도의 K-POP 연습생과 중국의 인디 록 씬]]></title>
+            <link>https://maily.so/draft.briefing/posts/952c20ff</link>
+            <guid>https://maily.so/draft.briefing/posts/952c20ff</guid>
+            <pubDate>Wed, 09 Feb 2022 01:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[+2022 음악 산업 트렌드 리포트(첨부)]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208" length="0" type="image//maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208"/>
+        </item>
         <item>
             <title><![CDATA[💡첫 ‘뉴스레터’를 보내기까지 12년이 걸린 이유]]></title>
             <link>https://maily.so/draft.briefing/posts/96dc54c8</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[&amp; 로블록스, NFT, 그래미 (지금 뭐가 벌어지는 거죠?)]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily50bdad8174223a5f42f14645c42f90061636156811" length="0" type="image//maily50bdad8174223a5f42f14645c42f90061636156811"/>
-        </item>
-        <item>
-            <title><![CDATA[💬TMI.토크쇼 | '위드 코로나'와 #우무지]]></title>
-            <link>https://maily.so/draft.briefing/posts/752f3e0f</link>
-            <guid>https://maily.so/draft.briefing/posts/752f3e0f</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[라이브 음악 씬의 챌린지 혹은 문제의 재정의]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily78990fe0e3ffe26a460b3f69eb71495c1636106417" length="0" type="image//maily78990fe0e3ffe26a460b3f69eb71495c1636106417"/>
         </item>
     </channel>
 </rss>
