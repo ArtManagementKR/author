@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕사운드트랙의 성공 사례들 (차우진의 TMI.FM ─ 메일리)]]></title>
+            <link>https://maily.so/draft.briefing/posts/8d146b78</link>
+            <guid>https://maily.so/draft.briefing/posts/8d146b78</guid>
+            <pubDate>Mon, 21 Feb 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엔칸토&gt;는 '넥스트 겨울왕국'일까? 정국의 웹툰 OST, 인도 영화의 참신한 사운드트랙 이야기]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily1324a0b9429f41f16eb9787b957b149f1645416957" length="0" type="image//maily1324a0b9429f41f16eb9787b957b149f1645416957"/>
+        </item>
         <item>
             <title><![CDATA[☕월드 와이드 K-POP: 트위터, 에릭 남, JYP 엔터테인먼트 (차우진의 TMI.FM ─ 메일리)]]></title>
             <link>https://maily.so/draft.briefing/posts/f089753d</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://cdn.maily.so/maily729f0a2a4ddbd84ef8827320ada64de61638582797" length="0" type="image//maily729f0a2a4ddbd84ef8827320ada64de61638582797"/>
         </item>
         <item>
-            <title><![CDATA[🎧TMI.mp3 | 갑자기 분위기 폴란드 팝?! (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/302f6bd4</link>
-            <guid>https://maily.so/draft.briefing/posts/302f6bd4</guid>
-            <pubDate>Sat, 04 Dec 2021 02:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[말많고고독한디제이의 플레이리스트]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily46fdf70ed1c193c6a3a4fb398f216f161636954319" length="0" type="image//maily46fdf70ed1c193c6a3a4fb398f216f161636954319"/>
-        </item>
-        <item>
             <title><![CDATA[유니버설 뮤직 그룹의 상장이 의미하는 것 (TMI.FM 뮤직랩스 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_nuEns/86947893</link>
             <guid>https://pf.kakao.com/_nuEns/86947893</guid>
@@ -286,7 +286,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://ArtManagementKR.github.io/author/all.xml</link>
             <guid>https://ArtManagementKR.github.io/author/all.xml</guid>
-            <pubDate>Mon, 21 Feb 2022 03:24:00 GMT</pubDate>
+            <pubDate>Mon, 21 Feb 2022 04:29:39 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>

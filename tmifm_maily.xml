@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 03:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 04:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕사운드트랙의 성공 사례들]]></title>
+            <link>https://maily.so/draft.briefing/posts/8d146b78</link>
+            <guid>https://maily.so/draft.briefing/posts/8d146b78</guid>
+            <pubDate>Mon, 21 Feb 2022 04:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;엔칸토&gt;는 '넥스트 겨울왕국'일까? 정국의 웹툰 OST, 인도 영화의 참신한 사운드트랙 이야기]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily1324a0b9429f41f16eb9787b957b149f1645416957" length="0" type="image//maily1324a0b9429f41f16eb9787b957b149f1645416957"/>
+        </item>
         <item>
             <title><![CDATA[☕월드 와이드 K-POP: 트위터, 에릭 남, JYP 엔터테인먼트]]></title>
             <link>https://maily.so/draft.briefing/posts/f089753d</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[유니버설의 NFT 밴드, 아기상어 NFT, 창의적인 음악 NFT 플랫폼 소식을 확인하세요]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily729f0a2a4ddbd84ef8827320ada64de61638582797" length="0" type="image//maily729f0a2a4ddbd84ef8827320ada64de61638582797"/>
-        </item>
-        <item>
-            <title><![CDATA[🎧TMI.mp3 | 갑자기 분위기 폴란드 팝?!]]></title>
-            <link>https://maily.so/draft.briefing/posts/302f6bd4</link>
-            <guid>https://maily.so/draft.briefing/posts/302f6bd4</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[말많고고독한디제이의 플레이리스트]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily46fdf70ed1c193c6a3a4fb398f216f161636954319" length="0" type="image//maily46fdf70ed1c193c6a3a4fb398f216f161636954319"/>
         </item>
     </channel>
 </rss>
