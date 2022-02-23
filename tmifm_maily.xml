@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 16:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🖋차우진의 워드비트 | 사랑마저 피로한 시대의 러브송]]></title>
+            <link>https://maily.so/draft.briefing/posts/59dcbcfb</link>
+            <guid>https://maily.so/draft.briefing/posts/59dcbcfb</guid>
+            <pubDate>Wed, 23 Feb 2022 16:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[흐른 - 레저 러브 (2011)]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily60d9980789072f3dd9708f3c3f84a91a1645632862" length="0" type="image//maily60d9980789072f3dd9708f3c3f84a91a1645632862"/>
+        </item>
         <item>
             <title><![CDATA[🖋차우진의 워드비트 | 그저 가만히 쓰다듬는 일]]></title>
             <link>https://maily.so/draft.briefing/posts/5fbe5c41</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[네, 머라이어 캐리의 계절이 왔어요! (feat.인터뷰)]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyd53e586a98a90269375c7ac7cb5357681639762309" length="0" type="image//mailyd53e586a98a90269375c7ac7cb5357681639762309"/>
-        </item>
-        <item>
-            <title><![CDATA[☕음악 산업은 기후위기에 어떻게 대응하고 있나요?]]></title>
-            <link>https://maily.so/draft.briefing/posts/c96595bf</link>
-            <guid>https://maily.so/draft.briefing/posts/c96595bf</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[음반, 페스티벌, 투어 뿐 아니라 스트리밍과 NFT도 문제에요]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily353f2fb5eb76c92646c4bc7e9b9cfb031639191134" length="0" type="image//maily353f2fb5eb76c92646c4bc7e9b9cfb031639191134"/>
         </item>
     </channel>
 </rss>
