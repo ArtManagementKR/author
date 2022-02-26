@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 01:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕진격의 SM, 뜨거운 NFT]]></title>
+            <link>https://maily.so/draft.briefing/posts/596754e7</link>
+            <guid>https://maily.so/draft.briefing/posts/596754e7</guid>
+            <pubDate>Sat, 26 Feb 2022 01:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[(새 코너) 국내 콘텐츠업계 소식을 브리핑합니다]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily4c04629df6a27df76de2f681499b12eb1645799772" length="0" type="image//maily4c04629df6a27df76de2f681499b12eb1645799772"/>
+        </item>
         <item>
             <title><![CDATA[📝차우진의 워드비트 | 사랑마저 피로한 시대의 러브송]]></title>
             <link>https://maily.so/draft.briefing/posts/59dcbcfb</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[몇 가지가 바뀝니다]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily24eb6fac7b0c09c4eb48194264f27a811640405490" length="0" type="image//maily24eb6fac7b0c09c4eb48194264f27a811640405490"/>
-        </item>
-        <item>
-            <title><![CDATA[☕캐리 메리 크리스마스]]></title>
-            <link>https://maily.so/draft.briefing/posts/b165609f</link>
-            <guid>https://maily.so/draft.briefing/posts/b165609f</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[네, 머라이어 캐리의 계절이 왔어요! (feat.인터뷰)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyd53e586a98a90269375c7ac7cb5357681639762309" length="0" type="image//mailyd53e586a98a90269375c7ac7cb5357681639762309"/>
         </item>
     </channel>
 </rss>
