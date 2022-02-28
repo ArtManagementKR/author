@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 03:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 04:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕우크라이나의 평화를 위해 움직이는 음악계]]></title>
+            <link>https://maily.so/draft.briefing/posts/30876d57</link>
+            <guid>https://maily.so/draft.briefing/posts/30876d57</guid>
+            <pubDate>Mon, 28 Feb 2022 04:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[러시아는 우크라이나 침공을 멈춰라!]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily920fab02c42643e3da2aef825767bb0e1646020157" length="0" type="image//maily920fab02c42643e3da2aef825767bb0e1646020157"/>
+        </item>
         <item>
             <title><![CDATA[☕진격의 SM, 뜨거운 NFT]]></title>
             <link>https://maily.so/draft.briefing/posts/596754e7</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
             <content:encoded><![CDATA[세상이 너무 빨리 변하고 있나요?]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily78a42182e44c9dfe90807134b087876d1640569739" length="0" type="image//maily78a42182e44c9dfe90807134b087876d1640569739"/>
-        </item>
-        <item>
-            <title><![CDATA[☕메리 크리스마스 앤 해피 뉴 공지]]></title>
-            <link>https://maily.so/draft.briefing/posts/255d589b</link>
-            <guid>https://maily.so/draft.briefing/posts/255d589b</guid>
-            <pubDate>Thu, 06 Jan 2022 14:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[몇 가지가 바뀝니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily24eb6fac7b0c09c4eb48194264f27a811640405490" length="0" type="image//maily24eb6fac7b0c09c4eb48194264f27a811640405490"/>
         </item>
     </channel>
 </rss>
