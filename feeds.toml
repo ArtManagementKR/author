@@ -32,7 +32,6 @@ url = "https://brunch.co.kr/@woojin#articles"
 entrySelector = "ul.list_article.list_post1 li.animation_up"
 titleSelector = "a.link_post strong.tit_subject"
 linkSelector = "a.link_post
-contentSelector = "div.post_desc"
 imageSelector = "div.post_thumb img"
 waitUntil = "networkidle"
 
