@@ -26,6 +26,16 @@ titleSelector = "span.txt_g"
 linkSelector = "a.link_item"
 waitUntil = "networkidle"
 
+[woojin_brunch]
+title = "차우진 ─ 브런치"
+url = "https://brunch.co.kr/@woojin#articles"
+entrySelector = "ul.list_article.list_post1 li.animation_up"
+titleSelector = "a.link_post strong.tit_subject"
+linkSelector = "a.link_post
+contentSelector = "div.post_desc"
+imageSelector = "div.post_thumb img"
+waitUntil = "networkidle"
+
 [zenerate_glivery]
 title = "제너레이트 ─ 글리버리"
 url = "https://zenerate.glivery.co.kr/"
